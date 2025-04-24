@@ -1,0 +1,21 @@
+1 - 
+first create a discord account in https://discord.com/  
+after that create a server in the discord 
+then go to user settings and then in advanced page in that page start the developer mode.
+
+2 - 
+then go to the https://discord.com/developers/applications
+create a application of any name the 
+go to the bot section and create a bot if it is not created then give permission of administrator then save the changes.
+after that go to the OAuth2 and in that 
+go to OAuth2  URL Generator and click on bot 
+then scroll down and give Administrator access for Bot Permissions .
+
+3 -
+then scroll down further and copy the Generated URL
+and open new browser tab and paste the url .
+then the page is showing your discord account then select the server for the bot and give permission to simply authorize it.
+
+4 -
+then go to this website https://discord.js.org/  
+and use the library for discord bot 
