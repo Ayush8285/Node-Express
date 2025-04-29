@@ -5,6 +5,8 @@ then go to user settings and then in advanced page in that page start the develo
 
 2 - 
 then go to the https://discord.com/developers/applications
+
+also allow Message Content Intent in the bot section
 create a application of any name the 
 go to the bot section and create a bot if it is not created then give permission of administrator then save the changes.
 after that go to the OAuth2 and in that 
@@ -18,4 +20,15 @@ then the page is showing your discord account then select the server for the bot
 
 4 -
 then go to this website https://discord.js.org/  
-and use the library for discord bot 
+and use the library for discord bot in your project ... library is (npm install discord.js)
+
+5 - 
+and lastly in the bot section do reset token to gain the token .. so that you can aceess and work..
+do not share this token to anyone.
+
+
+
+
+
+
+//use npm install dotenv for env variable
